@@ -30,4 +30,4 @@ When I'm not analyzing cycle times or writing Python, you'll probably find me li
 
 LinkedIn: [https://www.linkedin.com/in/andreas-lechner-080b05107/]
 
-Website: [flow2c.com]
+Website: [https://flow2c.com]
